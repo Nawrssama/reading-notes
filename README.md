@@ -27,6 +27,8 @@
 |   Read class-03       |       [Read3](./readme-files/read-class3.md)                     |
 |   Read class-04       |       [Read4](./readme-files/read-class4.md)                     |
 |   Read class-05       |       [Read5](./readme-files/read-class5.md)                     |
+|   Read class-06       |       [Read6](./readme-files/read-class6.md)                     |
+
 
 
 
