@@ -35,6 +35,7 @@ Decorators are a powerful and flexible feature in Python that can be used in man
 # example of a simple decorator function
 
 an example of a simple decorator function that adds logging functionality to another function:
+
     def log_decorator(func):
         def wrapper(*args, **kwargs):
             print(f"Calling function '{func.__name__}' with args={args}, kwargs={kwargs}")
