@@ -31,7 +31,9 @@
 |   Read class-07       |       [Read7](./readme-files/read-class7.md)                     |
 |   Read class-08       |       [Read8](./readme-files/read-class8.md)                     |
 |   Read class-09       |       [Read9](./readme-files/read-class9.md)                     |
-|   Read class-10       |       [Read10](./readme-files/read-class10.md)                     |
+|   Read class-10       |       [Read10](./readme-files/read-class10.md)                   |
+|   Read class-11       |       [Read11](./readme-files/read-class11.md)                   |
+
 
 
 
