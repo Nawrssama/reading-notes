@@ -39,6 +39,9 @@
 |   Read class-15       |       [Read15](./readme-files/read-class15.md)                   |
 |   Read class-16       |       [Read16](./readme-files/read-class16.md)                   |
 |   Read class-17       |       [Read17](./readme-files/read-class17.md)                   |
+|   Read class-18       |       [Read18](./readme-files/read-class18.md)                   |
+|   Read class-19       |       [Read19](./readme-files/read-class19.md)                   |
+
 
 
 
