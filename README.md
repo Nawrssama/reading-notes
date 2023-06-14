@@ -43,6 +43,8 @@
 |   Read class-19       |       [Read19](./readme-files/read-class19.md)                   |
 |   Read class-26       |       [Read26](./readme-files/read-class26.md)                   |
 |   Read class-27       |       [Read27](./readme-files/read-class27.md)                   |
+|   Read class-28       |       [Read28](./readme-files/read-class28.md)                   |
+
 
 
 
