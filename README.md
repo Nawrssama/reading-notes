@@ -44,6 +44,8 @@
 |   Read class-26       |       [Read26](./readme-files/read-class26.md)                   |
 |   Read class-27       |       [Read27](./readme-files/read-class27.md)                   |
 |   Read class-28       |       [Read28](./readme-files/read-class28.md)                   |
+|   Read class-29       |       [Read29](./readme-files/read-class29.md)                   |
+
 
 
 
