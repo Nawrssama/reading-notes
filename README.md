@@ -48,6 +48,7 @@
 |   Read class-30       |       [Read30](./readme-files/read-class30.md)                   |
 |   Read class-31       |       [Read31](./readme-files/read-class31.md)                   |
 |   Read class-32       |       [Read32](./readme-files/read-class32.md)                   |
+|   Read class-33       |       [Read33](./readme-files/read-class33.md)                   |
 
 
 
