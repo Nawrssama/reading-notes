@@ -1,0 +1,7 @@
+1. **React Context**: React Context is a feature in React that allows data to be passed down the component tree without the need to pass props manually at every level. It helps in managing global state and enables data sharing between components that are not directly related.
+
+2. **useContext Hook**: `useContext` is a React Hook that allows functional components to consume data from a React Context. It provides a way to access the value stored in the Context without using the traditional Context Consumer component.
+
+3. **Next.js**: Next.js is a framework for React that enhances the development of server-side rendering (SSR) and static site generation (SSG) applications. It simplifies routing and provides features like automatic code splitting and server-side rendering.
+
+4. **Example of Next.js for Scalable Web App**: One of the examples of using Next.js for building a scalable web application is creating an e-commerce site. With Next.js, you can implement server-side rendering for product pages, which helps improve SEO and initial page load times. You can also utilize automatic code splitting to optimize the bundle size and load only the necessary code for each page, enhancing performance. Additionally, Next.js allows you to implement incremental static regeneration (ISR), which helps update product data in the background, reducing the need for frequent re-rendering of static pages and ensuring the latest product information is available to users. This results in a faster and more scalable e-commerce website.
