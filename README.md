@@ -56,6 +56,7 @@
 |   Read class-38       |       [Read38](./readme-files/read-class38.md)                   |
 |   Read class-39       |       [Read39](./readme-files/read-class39.md)                   |
 |   Read class-40       |       [Read40](./readme-files/read-class40.md)                   |
+|   Read class-42       |       [Read42](./readme-files/read-class42.md)                   |
 
 
 
